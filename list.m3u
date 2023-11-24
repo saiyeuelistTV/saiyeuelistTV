@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1,KCINESD
+http://b4tv.live:80/play/lSvPusFljqIYVxaEfhPhfIVZiI2FTK-1A66QFW-Xk1dbZzl_U5Q5iVQ4VQ05mnnc/m3u8
+#EXTINF:-1,KLIFESD
+http://b4tv.live:80/play/lSvPusFljqIYVxaEfhPhfIVZiI2FTK-1A66QFW-Xk1f0HVzFuDChg-Ql0-iJPw5H/m3u8
+#EXTINF:-1,KSPORT1SD
+http://b4tv.live:80/play/lSvPusFljqIYVxaEfhPhfIVZiI2FTK-1A66QFW-Xk1fLV2Z0Hnk8s0qyTyfuZa9W/m3u8
+#EXTINF:-1,KSPORT2SD
+http://b4tv.live:80/play/lSvPusFljqIYVxaEfhPhfIVZiI2FTK-1A66QFW-Xk1f8Cbo9yeOXUZvngLYGcmfY/m3u8
+#EXTINF:-1,KKIDSSD
+http://b4tv.live:80/play/lSvPusFljqIYVxaEfhPhfIVZiI2FTK-1A66QFW-Xk1cV1tAS-eQu2NvO8uGajsxA/m3u8
