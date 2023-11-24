@@ -1,14 +1,14 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 tvg-logo="https://images.fptplay.net/media/channels/icon_channel_k1_16565571103.png",K+ CINE SD
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE
 http://b4tv.live:80/play/lSvPusFljqIYVxaEfhPhfIVZiI2FTK-1A66QFW-Xk1dbZzl_U5Q5iVQ4VQ05mnnc/m3u8
-#EXTINF:-1 tvg-logo="https://images.fptplay.net/media/channels/icon_channel_k1_16565571103.png",K+ ACTION SD
+#EXTINF:-1 tvg-id="kaction" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ ACTION
 http://b4tv.live:80/play/lSvPusFljqIYVxaEfhPhfIVZiI2FTK-1A66QFW-Xk1f0HVzFuDChg-Ql0-iJPw5H/m3u8
-#EXTINF:-1,K+ SPORT1 SD
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1
 http://b4tv.live:80/play/lSvPusFljqIYVxaEfhPhfIVZiI2FTK-1A66QFW-Xk1fLV2Z0Hnk8s0qyTyfuZa9W/m3u8
-#EXTINF:-1,K+ SPORT2 SD
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2
 http://b4tv.live:80/play/lSvPusFljqIYVxaEfhPhfIVZiI2FTK-1A66QFW-Xk1f8Cbo9yeOXUZvngLYGcmfY/m3u8
-#EXTINF:-1,K+ KIDS SD
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS
 http://b4tv.live:80/play/lSvPusFljqIYVxaEfhPhfIVZiI2FTK-1A66QFW-Xk1cV1tAS-eQu2NvO8uGajsxA/m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 50fps | THỬ NGHIỆM
 https://code.vthanhtivi.pw/getlink/mi/9vtZloK3PFaExTatX-yLLg/1700811228/379/playlist.m3u8
