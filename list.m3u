@@ -1,27 +1,12 @@
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyK+
-http://giaima.vthanhtivi.pw/K_CINE/index.m3u8?token=f251c10a7baaa660b54bcdb24e6b5888008af01c-597b1ffc451326b2966649e884d9e8cd-1701192984-1701182184
-#EXTINF:-1 tvg-id="kaction" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ ACTION - MyK+
-http://giaima.vthanhtivi.pw/K_ACTION/index.m3u8?token=60ddef8dde9a920d179a5ca20c4dbf4cd6bed899-d468b8c1beb88529359c39d98a8c6347-1701192984-1701182184
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyK+
-http://giaima.vthanhtivi.pw/K_SPORT1/index.m3u8?token=05ef6f6ff7c48c8dfa6c7cdb9f5dac3e9b64b17b-9c0b387c7a139c21923183a58a2b1b1c-1701192984-1701182184
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
-http://giaima.vthanhtivi.pw/K_SPORT2/index.m3u8?token=a361c291ae255d71168b872268c42c538038ffc9-9bc8bbc07ad3bf8dcce62f8c58696f42-1701192984-1701182184
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS - MyK+
-http://giaima.vthanhtivi.pw/K_KIDS/index.m3u8?token=29438968ce011b11fa394ace5b41b142932ca812-e600a9d159abf2f5b09246f99e0c3310-1701192984-1701182184
-#EXTINF:-1 tvg-id="" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+ LIVE 1
-http://giaima.vthanhtivi.pw/K_LIVE_1/index.m3u8?token=3ab3b49b02f846eab032ef5b7cc9c2c998b3b807-90110c71269b7ccd382c8174c6fb2251-1701192984-1701182184
-#EXTINF:-1 tvg-id="" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/043_K_LIVE2_landscape.jpg", K+ LIVE 2
-http://giaima.vthanhtivi.pw/K_LIVE_2/index.m3u8?token=a3988983b624cf579f83a03dbb7393da29e08b2d-560f4c33cf45386a794bac4177f3df4d-1701192984-1701182184
-#EXTINF:-1 tvg-id="" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/044_K_LIVE3_landscape.jpg", K+ LIVE 3
-http://giaima.vthanhtivi.pw/K_LIVE_3/index.m3u8?token=9ca55a5d715057c099c80a29cfc8523971511ae5-3fb244a929d83981bd369b987c9bcb79-1701192984-1701182184
-#EXTINF:-1 tvg-id="" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/SPORT1.jpg", SỰ KIỆN THỂ THAO 1
-http://giaima.vthanhtivi.pw/SKTT1/index.m3u8?token=23c354e0fff112ebb47b50732cf3b0dcbe4c80d3-6a4a2a868cc67fe08177b9f952fbe4bd-1701192984-1701182184
-#EXTINF:-1 tvg-id="" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/SPORT1.jpg", SỰ KIỆN THỂ THAO 2
-http://giaima.vthanhtivi.pw/SKTT2/index.m3u8?token=a7151cbe32592f9f0eedf70c1405b79594bec47b-aea91be09137b6ac64b544ddcc941f1e-1701192984-1701182184
-#EXTINF:-1 tvg-id="" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/SPORT1.jpg", SỰ KIỆN THỂ THAO 3
-http://giaima.vthanhtivi.pw/SKTT3/index.m3u8?token=af9860a4ed5b15922be2426580efe0cb732b1cd7-cfa7cbd6351f38216a206ff47d3c5a03-1701192984-1701182184
-#EXTINF:-1 tvg-id="" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/SPORT1.jpg", SỰ KIỆN THỂ THAO 4
-http://giaima.vthanhtivi.pw/SKTT4/index.m3u8?token=cb494c12d79b635f53f67158f48a34afc54e2284-a0eca0086ae0cff32e1b63f507b35d47-1701192984-1701182184
-#EXTINF:-1 tvg-id="" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/SPORT1.jpg", SỰ KIỆN THỂ THAO 5
-http://giaima.vthanhtivi.pw/SKTT5/index.m3u8?token=1ceeb46d22bc047f9c9bbbb5a987235f256b04e1-79716f02c9aed59c50d4e738aad000c5-1701192984-1701182184
-#EXTINF:-1 tvg-id="" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/SPORT1.jpg", SỰ KIỆN THỂ THAO 6
+#EXTINF:-1, TNT Sport 1
+https://live-tv.yarncdn.live/uk_bts1/index.m3u8
+#EXTINF:-1, TNT Sport 2
+https://live-tv.yarncdn.live/uk_bts2/index.m3u8
+#EXTINF:-1, TNT Sport 3
+https://live-tv.yarncdn.live/uk_bts3/index.m3u8
+#EXTINF:-1, TNT Sport 3
+https://live-tv.yarncdn.live/uk_bts4/index.m3u8
+#EXTINF:-1, Eurosport 1
+https://live-tv.yarncdn.live/uk_eurosport1/index.m3u8
+#EXTINF:-1, Eurosport 2
+https://live-tv.yarncdn.live/uk_eurosport2/index.m3u8
